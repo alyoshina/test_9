@@ -11,6 +11,7 @@ add_library(async SHARED
     src/parser.cpp
 )
 
+
 target_include_directories(async PRIVATE
     "${CMAKE_BINARY_DIR}"
     src
