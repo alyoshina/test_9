@@ -1,0 +1,6 @@
+<map id="ICommands" name="ICommands">
+<area shape="rect" id="node1" title="For bulk." alt="" coords="71,80,163,107"/>
+<area shape="rect" id="node3" href="$classCommands.html" title="Size bulk." alt="" coords="5,155,93,181"/>
+<area shape="rect" id="node4" href="$classDinamicCommands.html" title="Dinamic bulk." alt="" coords="118,155,253,181"/>
+<area shape="rect" id="node2" href="$classICmd.html" title=" " alt="" coords="91,5,144,32"/>
+</map>
